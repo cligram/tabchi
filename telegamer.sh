@@ -56,7 +56,7 @@ echo -e "$f2 Tabchi Folder FOUND IN YOUR HOME DIRECTORY$rst"
 ls ./ | grep tabchi.license 2>/dev/null >/dev/null
 if [ $? != 0 ]; then
   echo -e "$f1 ERROR: Tabchi: This Auto Launcher Can Be Used Just For Our Source$rst"
-  echo -e "$bld$f2 Github : https://github.com/tabchi/tabchi $rst"
+  echo -e "$bld$f2 Github : https://github.com/cligram/tabchi $rst"
   sleep 4
   exit 1
 fi
@@ -71,7 +71,7 @@ while true ; do
   echo -e ""
   echo -e "$bld$f2 Bot Source : Tabchi $rst"
   sleep 0.5
-  echo -e "$bld$f2 Github : https://github.com/tabchi/tabchi $rst"
+  echo -e "$bld$f2 Github : https://github.com/cligram/tabchi $rst"
   sleep 0.5
   echo -e "$bld$f2 Telegran CH : T.ME/TABADOL_CHI $rst"
   sleep 0.5
