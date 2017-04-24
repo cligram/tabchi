@@ -25,11 +25,5 @@ Use `./tabchi-ID.sh` to run your bot normaly or use `screen ./tabchi-ID.sh` for 
 ## Autolaunch
 use `./telegamer.sh ` for Autolaunch
 
-## Developers
-
- * [Mehrpouya](https://telegram.me/Mehrpouya)
- * [Aryan](https://telegram.me/AryawN_Si)
- * [MrBlacklife](https://telegram.me/Mrblacklife)
-
-### Powered by [TeleGamer](https://telegram.me/TeleGamerCh)
-### Thanks to [BlackLife™](https://t.me/BlackLifeTM)
+### Powered by [Mr_Tablighchi](https://telegram.me/Mr_Tablighchi)
+### Thanks to [Mr_Tablighchi™](https://t.me/Mr_Tablighchi)
